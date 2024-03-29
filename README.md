@@ -1,4 +1,4 @@
-# IOS-XE-Sustainability-Dashboard
+# IOS-XE Sustainability Dashboard
 
 Assuming that you have a TIG stack running to receive, store, and visualize the telemetry from the Cisco IOS-XE devices
 

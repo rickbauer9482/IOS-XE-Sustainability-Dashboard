@@ -1,0 +1,7 @@
+telemetry ietf subscription 10001
+ encoding encode-kvgpb
+ filter xpath /poe-ios-xe-oper:poe-oper-data/poe-port-detail
+ source-address A.A.A.A
+ stream yang-push
+ update-policy periodic 60000
+ receiver ip address X.X.X.X 57500 protocol grpc-tcp

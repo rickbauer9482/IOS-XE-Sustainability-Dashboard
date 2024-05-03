@@ -8,4 +8,4 @@ Assuming that you have a TIG stack running to receive, store, and visualize the 
 
 *** If you need help getting your Telegraf, InfluxDB, and Grafana (TIG Stack) set up see my cisco-mdt-tig repository for help getting started
 
-<img width="1911" alt="image" src="https://github.com/rickbauer9482/IOS-XE-Sustainability-Dashboard/assets/19711276/610a696f-0d93-425a-bfc0-a6754948b578">
+<img width="1925" alt="image" src="https://github.com/rickbauer9482/IOS-XE-Sustainability-Dashboard/assets/19711276/b3b3efa0-67ec-47c4-bf15-15bf661625ac">

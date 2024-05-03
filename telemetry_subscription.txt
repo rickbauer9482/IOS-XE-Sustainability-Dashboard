@@ -5,3 +5,11 @@ telemetry ietf subscription 10001
  stream yang-push
  update-policy periodic 60000
  receiver ip address X.X.X.X 57500 protocol grpc-tcp
+
+telemetry ietf subscription 10008
+ encoding encode-kvgpb
+ filter xpath /oc-platform:components/component/state/temperature
+ source-address A.A.A.A
+ stream yang-push
+ update-policy periodic 3000
+ receiver ip address X.X.X.X 57500 protocol grpc-tcp

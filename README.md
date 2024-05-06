@@ -1,7 +1,9 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/rickbauer9482/IOS-XE-Sustainability-Dashboard)
+
 # IOS-XE Sustainability Dashboard
 # Description:
 
-This is an example of how to use Model-Driven Telemetry, Telegraf, InfluxdB, and Grafana (TIG Stack) to visualize the sustainability telemetry from Cisco IOS-XE devices.  
+This is an example of using Model-Driven Telemetry, Telegraf, InfluxdB, and Grafana (TIG Stack) to visualize the sustainability telemetry from Cisco IOS-XE devices.  
 
 Link to the [USECASE.md](https://github.com/rickbauer9482/IOS-XE-Sustainability-Dashboard/blob/main/USECASE.md)
 

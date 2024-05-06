@@ -14,11 +14,11 @@ Link to the [USECASE.md](https://github.com/rickbauer9482/IOS-XE-Sustainability-
 
 # The Goal:
 
-•	To provide a Sustainability Dashboard based on modern approaches (MDT) and OpenSource tools
+•	To provide a Sustainability Dashboard using modern approaches (MDT) and OpenSource tools
 
 # The Solution:
 
-•	Telemetry subscriptions from Cisco IOS-XE devices to provide sub-second resolution to visualize sustainability data in a TIG Stack 
+•	Telemetry subscriptions from Cisco IOS-XE devices to provide sub-second resolution and a TIG Stack to visualize sustainability data
 
 # The Results:
 
